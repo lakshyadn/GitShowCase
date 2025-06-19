@@ -3,8 +3,9 @@
 
 A full-stack, serverless web application to showcase GitHub developer profiles, including top repositories, total stars, commit counts, and real-time activity — all powered by the GitHub API and hosted entirely on AWS.
 
-### 🚀 Live Demo  
-🟢 Hosted via AWS CloudFront (CDN): [https://d3tbtv7bxs3vbw.cloudfront.net](https://d3tbtv7bxs3vbw.cloudfront.net)
+🧠 AWS Architecture Diagram
+
+![GitShowCaseAPI](https://github.com/user-attachments/assets/54aa061a-7444-4c19-937f-47720299ea4c)
 
 ---
 
@@ -99,10 +100,6 @@ POST /register
 }
 ```
 
----
-🧠 AWS Architecture Diagram
-
-![GitShowCaseAPI](https://github.com/user-attachments/assets/54aa061a-7444-4c19-937f-47720299ea4c)
 
    ---
 
